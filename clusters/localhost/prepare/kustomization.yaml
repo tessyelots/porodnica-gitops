@@ -3,7 +3,7 @@ kind: Kustomization
 
 resources:
 - namespace.yaml
-- ../../../infrastructure/polyfea
+- ../../../infrastructure/polyfea-controller
 - ../../../infrastructure/fluxcd
 
 components:
