@@ -12,3 +12,6 @@ resources:
 - cd.kustomization.yaml
 - install.kustomization.yaml
 - git-repository.yaml
+- porodnica-ufe.image-repository.yaml
+- porodnica-ufe.image-policy.yaml
+- image-update-automation.yaml
