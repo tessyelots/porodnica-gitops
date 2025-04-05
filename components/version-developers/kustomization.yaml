@@ -3,5 +3,5 @@ kind: Component
 
 images:
 - name: xsmutny/porodnica-ambulance-ufe
-  newName: xsmutny/porodnica-ambulance-ufe # {"$imagepolicy":  "wac-hospital:ambulance-ufe:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:ambulance-ufe:tag"}
+  newName: xsmutny/porodnica-ambulance-ufe # {"$imagepolicy":  "wac-hospital:porodnica-ambulance-ufe:name"}
+  newTag: main # {"$imagepolicy": "wac-hospital:porodnica-ambulance-ufe:tag"}
