@@ -5,6 +5,3 @@ resources:
 - namespace.yaml
 - ../../../infrastructure/polyfea
 - ../../../infrastructure/fluxcd
-
-components:
-- ../../../components/version-developers

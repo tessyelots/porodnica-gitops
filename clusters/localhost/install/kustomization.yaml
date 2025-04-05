@@ -9,6 +9,3 @@ labels:
 
 resources:
 - ../../../apps/porodnica-ambulance-ufe
-
-components:
-- ../../../components/version-developers
