@@ -4,7 +4,7 @@ metadata:
   name: porodnica-ambulance-ufe-content
 spec:
   microFrontend: porodnica-ambulance-ufe
-  element: porodnica-ambulance-home-app
+  element: porodnica-ambulance-home
   attributes:
     - name: base-path
       value: /ambulance-home/
