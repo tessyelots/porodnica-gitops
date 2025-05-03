@@ -7,7 +7,7 @@ spec:
   element: porodnica-ambulance-home-app
   attributes:
     - name: base-path
-      value: /porodnica-ambulance-home/
+      value: /ambulance-home/
   displayRules:
     - allOf:
       - context-name: main-content
