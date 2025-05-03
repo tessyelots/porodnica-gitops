@@ -4,7 +4,10 @@ metadata:
   name: porodnica-ambulance-ufe-content
 spec:
   microFrontend: porodnica-ambulance-ufe
-  element: porodnica-ambulance-home
+  element: porodnica-ambulance-home-app
+  attributes:
+    - name: base-path
+      value: /porodnica-ambulance-home/
   displayRules:
     - allOf:
       - context-name: main-content
