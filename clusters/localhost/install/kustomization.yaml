@@ -9,6 +9,11 @@ labels:
 
 resources:
 - ../../../apps/porodnica-ambulance-ufe
+- ../../../apps/porodnica-webapi
+
+patches:
+- path: patches/ambulance-webapi.service.yaml
 
 components:
 - ../../../components/version-developers
+- https://github.com/tessyelots/porodnica-webapi//deployments/kustomize/components/mongodb
