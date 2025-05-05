@@ -12,7 +12,7 @@ resources:
 - ../../../apps/porodnica-webapi
 
 patches:
-- path: patches/ambulance-webapi.service.yaml
+- path: patches/porodnica-webapi.service.yaml
 
 components:
 - ../../../components/version-developers
