@@ -10,7 +10,7 @@ spec:
       value: /ambulance-home/
     - name: api-base
       value: http://localhost:30081/api
-    - name: ambulance-id
+    - name: porodnica-id
       value: bobulova
   displayRules:
     - allOf:
