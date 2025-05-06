@@ -7,7 +7,7 @@ spec:
   element: porodnica-ambulance-home-app
   attributes:
     - name: base-path
-      value: /porodnica-home/
+      value: /ambulance-home/
     - name: api-base
       value: http://localhost:30081/api
     - name: porodnica-id
