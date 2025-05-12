@@ -6,4 +6,4 @@ images:
   newTag: main.20250508.0922 # {"$imagepolicy": "wac-hospital:porodnica-ambulance-ufe:tag"}
 - name: xsmutny/porodnica-webapi
   newName: xsmutny/porodnica-webapi # {"$imagepolicy":  "wac-hospital:porodnica-webapi:name"}
-  newTag: main.20250505.1201 # {"$imagepolicy": "wac-hospital:porodnica-webapi:tag"}
+  newTag: main.20250512.0614 # {"$imagepolicy": "wac-hospital:porodnica-webapi:tag"}
