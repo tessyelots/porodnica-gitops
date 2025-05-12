@@ -3,4 +3,7 @@ kind: Component
 images:
 - name: xsmutny/porodnica-ambulance-ufe
   newName: xsmutny/porodnica-ambulance-ufe
-  newTag: 1.0.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+  newTag: 1.1.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+- name: xsmutny/porodnica-webapi
+  newName: xsmutny/porodnica-webapi
+  newTag: 1.1.0

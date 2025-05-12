@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/porodnica-ambulance-ufe
+- ../../../apps/porodnica-webapi
 
 
 components:
