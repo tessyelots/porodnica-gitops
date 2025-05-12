@@ -3,7 +3,7 @@ kind: Component
 images:
 - name: xsmutny/porodnica-ambulance-ufe
   newName: xsmutny/porodnica-ambulance-ufe # {"$imagepolicy":  "wac-hospital:porodnica-ambulance-ufe:name"}
-  newTag: main.20250508.0922 # {"$imagepolicy": "wac-hospital:porodnica-ambulance-ufe:tag"}
+  newTag: main.20250512.0635 # {"$imagepolicy": "wac-hospital:porodnica-ambulance-ufe:tag"}
 - name: xsmutny/porodnica-webapi
   newName: xsmutny/porodnica-webapi # {"$imagepolicy":  "wac-hospital:porodnica-webapi:name"}
   newTag: main.20250512.0614 # {"$imagepolicy": "wac-hospital:porodnica-webapi:tag"}
